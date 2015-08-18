@@ -35,7 +35,7 @@ Lines 169-177
 
 
 
-In addition to changing the server info, ensure there should be a access file on your server named isu.accdb to ensure the application is able to store/manage data. A sample database file in included in the repository,
+In addition to changing the server info, ensure there is a access file on your server named isu.accdb to allow the application  to store/manage data. A sample database file in included in the repository,
 
 
 
