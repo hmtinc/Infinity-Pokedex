@@ -5,7 +5,7 @@ The infinity pokédex is a simple application which scrapes an online based poke
 # Setup
 - Due to server up keep issues, there is no longer a demo server online, but the application can be configured to pull data of another server. 
 
-To point Infinity to your server, edit the following lines lines in MainForm.cs with your apportiate server and database information. 
+To point the Infinity Pokedex to your server, edit the following lines lines in MainForm.cs with your apportiate server and database information. 
 
 Line 73
 ```c#
