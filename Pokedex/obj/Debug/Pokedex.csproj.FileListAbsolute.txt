@@ -1,0 +1,80 @@
+E:\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+E:\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.MainForm.resources
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+E:\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.MainForm.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+F:\Computer Science Notes Grade 12\ISU\Pokedex\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+E:\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+E:\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+E:\Pokedex\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.MainForm.resources
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+E:\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.MainForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Spire.DataExport.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Spire.License.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\bin\Debug\Spire.DataExport.xml
+C:\Users\Harsh Mistry\Desktop\ISU\Pokedex\Pokedex\obj\Debug\Pokedex.exe.licenses
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.DataExport.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.DataExport.ResourceMgr.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.License.dll
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.DataExport.xml
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.MainForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+C:\Users\Harsh Mistry\Desktop\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.exe.licenses
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.exe
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.pdb
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.AboutBox1.resources
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.MainForm.resources
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.SplashForm.resources
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.TypeForm.resources
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.Cache
+E:\ISU\Source Code and Other Files\Pokedex\obj\Debug\Pokedex.exe.licenses
+E:\ISU\Source Code and Other Files\Pokedex\bin\Debug\Pokedex.exe
+E:\ISU\Source Code and Other Files\Pokedex\bin\Debug\Pokedex.pdb
+E:\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.DataExport.ResourceMgr.dll
+E:\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.License.dll
+E:\ISU\Source Code and Other Files\Pokedex\bin\Debug\Spire.DataExport.xml
